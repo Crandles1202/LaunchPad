@@ -28,7 +28,7 @@ public class HomeController : Controller
         string connectionString;
         SqlConnection sqlConnection;
         
-        var conn = Server=tcp:chuckslaunchpadserver.database.windows.net,1433;Initial Catalog=LaunchPadDB;Persist Security Info=False;User ID=crandles;Password=Valerie55!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+        var conn = "Server=tcp:chuckslaunchpadserver.database.windows.net,1433;Initial Catalog=LaunchPadDB;Persist Security Info=False;User ID=crandles;Password=Valerie55!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30";
         conn.open();
         
         return View();
