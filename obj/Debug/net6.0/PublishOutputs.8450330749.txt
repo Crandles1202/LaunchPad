@@ -1,0 +1,7 @@
+C:\Projects\LaunchPad\pub\LaunchPad.exe
+C:\Projects\LaunchPad\pub\appsettings.Development.json
+C:\Projects\LaunchPad\pub\appsettings.json
+C:\Projects\LaunchPad\pub\LaunchPad.dll
+C:\Projects\LaunchPad\pub\LaunchPad.deps.json
+C:\Projects\LaunchPad\pub\LaunchPad.runtimeconfig.json
+C:\Projects\LaunchPad\pub\LaunchPad.pdb

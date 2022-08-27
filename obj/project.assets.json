@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\LaunchPad\\LaunchPad\\LaunchPad.csproj",
+      "projectUniqueName": "C:\\Projects\\LaunchPad\\LaunchPad.csproj",
       "projectName": "LaunchPad",
-      "projectPath": "C:\\Projects\\LaunchPad\\LaunchPad\\LaunchPad.csproj",
+      "projectPath": "C:\\Projects\\LaunchPad\\LaunchPad.csproj",
       "packagesPath": "C:\\Users\\rac35\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\LaunchPad\\LaunchPad\\obj\\",
+      "outputPath": "C:\\Projects\\LaunchPad\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
