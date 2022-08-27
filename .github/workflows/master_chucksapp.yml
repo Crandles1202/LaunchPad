@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ChucksApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_05DDE48D01B641DDBA8D48BE7A9742D3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A3EEBDC7E1E442FDAF25806A5B6B7804 }}
           package: .
